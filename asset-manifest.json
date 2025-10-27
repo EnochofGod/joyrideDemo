@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/joyrideDemo/static/css/main.2954a021.css",
+    "main.js": "/joyrideDemo/static/js/main.03679517.js",
+    "index.html": "/joyrideDemo/index.html",
+    "main.2954a021.css.map": "/joyrideDemo/static/css/main.2954a021.css.map",
+    "main.03679517.js.map": "/joyrideDemo/static/js/main.03679517.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2954a021.css",
+    "static/js/main.03679517.js"
+  ]
+}

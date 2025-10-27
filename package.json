@@ -2,6 +2,7 @@
   "name": "joyride",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://enochofgod.github.io/joyrideDemo",
   "dependencies": {
     "@reactour/tour": "^3.8.0",
     "@testing-library/dom": "^10.4.1",
